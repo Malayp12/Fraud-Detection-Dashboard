@@ -2,7 +2,7 @@
 
 This project identifies fraudulent transactions using **SQL-based feature engineering** and presents key fraud insights through a **Power BI dashboard**.
 
-![Dashboard Preview](final_dashboard.png)
+![Dashboard Preview](screenshots/final_dashboard.png)
 
 ---
 
